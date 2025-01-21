@@ -1,8 +1,8 @@
 👋 Hi, I’m @vaibhavikakade29  
-👀 I’m interested in developing skills related to  computer applications.  
-🌱 I’m currently learning and have experience in programming languages like C,PHP,DSA,Big Data,CPP,Java,Python,Basic React and software management.  
-💞️ I’m looking to collaborate on projects related to business technologies, software development, and data analysis.    
-⚡ Fun fact: I have great multitasking skills and enjoy balancing multiple projects at once!
+👀 I’m interested in Developing Skills related to  Computer Applications.  
+🌱 I’m currently learning and have experience in programming languages like C/C++, PHP, DSA, R Programming, Java, Python, Basic React and Software management.  
+💞️ I’m looking to collaborate on projects related to Business Technologies, Software Development, Data Analysis and Web Applaction.    
+⚡ Fun fact: I have great Multitasking Skills and enjoy balancing Multiple Projects at once!
 
 <!---
 vaibhavikakade29/vaibhavikakade29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
