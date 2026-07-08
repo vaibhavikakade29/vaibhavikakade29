@@ -1,10 +1,25 @@
-👋 Hi, I’m @vaibhavikakade29<br>
-👀 I’m interested in Java Development and building efficient software solutions.<br>
-🌱 I’ve learned and have experience in Java, C++, PHP, DSA, along with HTML, CSS, JavaScript, Angular, MongoDB, Node.js, Express (MEAN Stack) and Software Management.<br>
-💞️ I’m looking to collaborate on projects related to Java Applications, MEAN Stack Development, Software Development, Business Technologies, and Web Applications.<br>
-⚡ Fun fact: I have strong multitasking skills and enjoy handling multiple projects at once!
+👋 Hi, I’m @vaibhavikakade29
 
-💡 Quote of the Day:
+🎓 Pursuing MCA | BCA Graduate (CGPA: 9.32)
+💻 Aspiring Java & Full Stack Developer (MEAN Stack)
 
-✨ "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter." 🎨🖥️
+👀 I’m passionate about Java development and building efficient, scalable software solutions.
+
+🌱 I have a strong foundation in Java, Data Structures & Algorithms, along with hands-on experience in web technologies such as Angular, Node.js, Express, and MongoDB (MEAN Stack).
+
+💼 I’ve worked on real-world projects and completed a software development internship, where I contributed to a live application in a collaborative team environment.
+
+💞️ I’m looking to collaborate on projects related to:
+
+* Java Applications
+* Full Stack (MEAN) Development
+* Software Development
+* Web Applications & Business Technologies
+
+🚀 I’m eager to apply my skills, continuously learn, and grow as a software developer.
+
+⚡ Fun fact: I enjoy multitasking and efficiently managing multiple projects at once!
+
+💡 **Quote of the Day:**
+✨ “Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.” 🎨🖥️
 — Eric S. Raymond 💭
